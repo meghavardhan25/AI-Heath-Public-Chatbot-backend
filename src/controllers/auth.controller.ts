@@ -15,13 +15,15 @@ function safeUser(user: { _id: object; name?: string | null; email: string; imag
 }
 
 export async function register(req: Request, res: Response): Promise<void> {
-  const { name, email, password } = req.body as {
+  const { name, firstName, lastName, email, password } = req.body as {
     name?: string;
+    firstName?: string;
+    lastName?: string;
     email?: string;
     password?: string;
   };
 
-  if (!email || !password) {
+  if (!email?.trim() || !password) {
     res.status(400).json({ error: "Email and password are required." });
     return;
   }
@@ -30,7 +32,9 @@ export async function register(req: Request, res: Response): Promise<void> {
     return;
   }
 
-  const displayName = name?.trim();
+  const displayName =
+    name?.trim() ||
+    [firstName?.trim(), lastName?.trim()].filter(Boolean).join(" ").trim();
   if (!displayName) {
     res.status(400).json({ error: "First name and last name are required." });
     return;
@@ -80,7 +84,7 @@ export async function googleAuth(req: Request, res: Response): Promise<void> {
     return;
   }
 
-  const clientId = process.env.GOOGLE_CLIENT_ID;
+  const clientId = process.env.GOOGLE_CLIENT_ID?.trim();
   if (!clientId) {
     res.status(503).json({ error: "Google OAuth is not configured on this server." });
     return;

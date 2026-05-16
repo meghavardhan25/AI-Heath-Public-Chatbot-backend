@@ -14,11 +14,24 @@ const PORT = process.env.PORT ?? 5000;
 
 const frontendOrigins = (process.env.FRONTEND_URL ?? "http://localhost:3000")
   .split(",")
-  .map((s) => s.trim())
+  .map((s) => s.trim().replace(/\/+$/, ""))
   .filter(Boolean);
+
 app.use(
   cors({
-    origin: frontendOrigins.length <= 1 ? frontendOrigins[0] : frontendOrigins,
+    origin(origin, callback) {
+      if (!origin) {
+        callback(null, true);
+        return;
+      }
+      const normalized = origin.replace(/\/+$/, "");
+      if (frontendOrigins.includes(normalized)) {
+        callback(null, true);
+        return;
+      }
+      console.warn(`CORS blocked for origin: ${origin}`);
+      callback(null, false);
+    },
     credentials: true,
   }),
 );
