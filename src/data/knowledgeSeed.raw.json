@@ -1,0 +1,1198 @@
+[
+  {
+    "kw": [
+      "sunburn",
+      "sun safety",
+      "spf",
+      "uv rays"
+    ],
+    "text": "Use broad-spectrum SPF 30+; reapply every 2 hours outdoors. Seek shade midday; wear hat and sunglasses. Severe blistering burns or fever may need medical care."
+  },
+  {
+    "kw": [
+      "dehydration",
+      "thirsty",
+      "dry mouth",
+      "fluid loss"
+    ],
+    "text": "Drink water regularly; increase fluids with heat, exercise, or illness. Signs of serious dehydration include dizziness, very dark urine, or confusion — seek care if severe."
+  },
+  {
+    "kw": [
+      "electrolytes",
+      "rehydration",
+      "sports drink"
+    ],
+    "text": "With prolonged vomiting or diarrhea, oral rehydration solutions can replace salts better than water alone. See a clinician if you cannot keep fluids down or feel faint."
+  },
+  {
+    "kw": [
+      "heat stroke",
+      "heatstroke",
+      "hot weather"
+    ],
+    "text": "Heat stroke is an emergency: confusion, hot dry skin, high body temperature. Call emergency services; move to shade, cool gradually. Prevention: hydration, breaks, and avoiding peak heat."
+  },
+  {
+    "kw": [
+      "heat exhaustion",
+      "overheating",
+      "heavy sweating"
+    ],
+    "text": "Move to a cool place, loosen clothing, sip cool water. If vomiting, confusion, or symptoms worsen, seek urgent care — it can progress to heat stroke."
+  },
+  {
+    "kw": [
+      "hypothermia",
+      "cold exposure",
+      "shivering"
+    ],
+    "text": "Warm gradually with dry layers and warm drinks if alert. Severe confusion, slurred speech, or stopped shivering are emergencies — call for help and avoid rapid rewarming extremes."
+  },
+  {
+    "kw": [
+      "frostbite",
+      "frozen skin",
+      "cold injury"
+    ],
+    "text": "Warm affected areas gradually with body heat or lukewarm water; do not rub ice. Numb white or gray skin after cold needs medical evaluation."
+  },
+  {
+    "kw": [
+      "tick bite",
+      "lyme",
+      "ticks"
+    ],
+    "text": "Remove ticks with fine-tipped tweezers close to skin; clean the site. Watch for expanding rash or fever — contact a clinician about testing and prevention in endemic areas."
+  },
+  {
+    "kw": [
+      "bee sting",
+      "wasp sting",
+      "insect sting"
+    ],
+    "text": "Remove stinger if present; clean site; cold compress. Call emergency services for throat swelling, wheezing, or widespread hives (possible anaphylaxis)."
+  },
+  {
+    "kw": [
+      "snake bite",
+      "venom",
+      "bite wound"
+    ],
+    "text": "Keep calm, immobilize limb loosely, and seek emergency care immediately. Do not cut, suck, or apply ice. Note snake appearance if safe to describe."
+  },
+  {
+    "kw": [
+      "poison ivy",
+      "poison oak",
+      "rash plant"
+    ],
+    "text": "Wash skin and clothing after exposure. Calamine or OTC creams may help itching. Seek care for widespread rash, face/genitals, or breathing difficulty."
+  },
+  {
+    "kw": [
+      "minor burn",
+      "scalding",
+      "kitchen burn"
+    ],
+    "text": "Cool with running water 10–20 minutes; do not apply ice directly. Cover with clean nonstick dressing. Seek care for large, deep, or facial/hand burns."
+  },
+  {
+    "kw": [
+      "bleeding",
+      "cut",
+      "laceration",
+      "first aid"
+    ],
+    "text": "Apply firm pressure with clean cloth; elevate if possible. Seek emergency care if bleeding does not slow, wound is deep, or caused by animal bite."
+  },
+  {
+    "kw": [
+      "nosebleed",
+      "epistaxis",
+      "bloody nose"
+    ],
+    "text": "Lean forward slightly, pinch soft part of nose 10–15 minutes. Avoid blowing after. Frequent or heavy nosebleeds warrant medical evaluation."
+  },
+  {
+    "kw": [
+      "sprain",
+      "twisted ankle",
+      "rice",
+      "strain"
+    ],
+    "text": "Rest, ice 15–20 minutes, compression wrap, elevation. Seek care if you cannot bear weight, bone tenderness, or severe deformity."
+  },
+  {
+    "kw": [
+      "broken bone",
+      "fracture",
+      "suspected break"
+    ],
+    "text": "Immobilize, ice, and seek urgent evaluation for deformity, crunching sound, numbness, or inability to use the limb."
+  },
+  {
+    "kw": [
+      "concussion",
+      "head injury",
+      "mtbi"
+    ],
+    "text": "Rest physically and cognitively; avoid another head hit. Red flags: worsening headache, repeated vomiting, confusion, seizure — emergency evaluation."
+  },
+  {
+    "kw": [
+      "food poisoning",
+      "bad food",
+      "stomach bug food"
+    ],
+    "text": "Hydration is key. Seek care for high fever, blood in stool, severe dehydration, or symptoms beyond 72 hours."
+  },
+  {
+    "kw": [
+      "Listeriosis",
+      "listeria",
+      "pregnancy food"
+    ],
+    "text": "Pregnant people should avoid unpasteurized dairy and undercooked deli foods per public health guidance; ask your clinician about food safety lists."
+  },
+  {
+    "kw": [
+      "prenatal vitamins",
+      "pregnancy nutrition",
+      "folic acid"
+    ],
+    "text": "Folic acid before and early pregnancy supports neural tube development; iron and vitamin D needs vary — follow your prenatal care team's advice."
+  },
+  {
+    "kw": [
+      "breastfeeding",
+      "nursing",
+      "lactation"
+    ],
+    "text": "Early frequent feeding supports supply; seek lactation support for pain, poor weight gain, or mastitis symptoms."
+  },
+  {
+    "kw": [
+      "postpartum depression",
+      "after birth depression",
+      "baby blues"
+    ],
+    "text": "Mood changes after delivery are common; persistent sadness, guilt, or intrusive thoughts need prompt clinician support — treatments help."
+  },
+  {
+    "kw": [
+      "menopause",
+      "hot flashes",
+      "perimenopause"
+    ],
+    "text": "Discuss bothersome symptoms with a clinician; options range from lifestyle changes to medications — risks and benefits are individualized."
+  },
+  {
+    "kw": [
+      "prostate cancer screening",
+      "psa test"
+    ],
+    "text": "Screening decisions depend on age, risk, and preferences — discuss pros and cons with a clinician rather than self-interpreting tests."
+  },
+  {
+    "kw": [
+      "testicular health",
+      "lump testicle"
+    ],
+    "text": "Monthly self-exams are not universally recommended, but report new lumps, pain, or heaviness promptly — many causes are treatable when caught early."
+  },
+  {
+    "kw": [
+      "breast health",
+      "breast lump"
+    ],
+    "text": "Report new persistent lumps, skin changes, or nipple discharge to a clinician. Screening mammography schedules depend on age and risk."
+  },
+  {
+    "kw": [
+      "pap smear",
+      "cervical screening",
+      "hpv test"
+    ],
+    "text": "Cervical screening reduces cancer risk; intervals depend on age and past results — follow your national guidelines and clinician advice."
+  },
+  {
+    "kw": [
+      "osteoporosis",
+      "bone density",
+      "calcium"
+    ],
+    "text": "Weight-bearing exercise, adequate calcium/vitamin D, and fall prevention matter. Screening and treatment decisions are individualized after menopause or with risk factors."
+  },
+  {
+    "kw": [
+      "child fever",
+      "infant fever",
+      "temperature baby"
+    ],
+    "text": "Any fever in infants under 3 months needs urgent evaluation. Older children: hydration and comfort; seek care for lethargy, rash, breathing issues, or prolonged fever."
+  },
+  {
+    "kw": [
+      "ear infection",
+      "otitis",
+      "ear pain child"
+    ],
+    "text": "Pain control and sometimes observation or antibiotics depending on age and severity — follow your pediatric clinician's plan."
+  },
+  {
+    "kw": [
+      "strep throat",
+      "sore throat bacteria"
+    ],
+    "text": "Rapid testing or culture guides antibiotics when indicated. Finish prescribed antibiotics; return if worsening or neck swelling."
+  },
+  {
+    "kw": [
+      "sinus infection",
+      "sinusitis",
+      "facial pressure"
+    ],
+    "text": "Many cases are viral; saline rinses and pain relief help. See a clinician if symptoms >10 days, high fever, or severe facial pain."
+  },
+  {
+    "kw": [
+      "pink eye",
+      "conjunctivitis",
+      "red eye"
+    ],
+    "text": "Avoid touching eyes; wash hands; do not share towels. Bacterial vs viral management differs — seek care for pain, vision changes, or contact lens wearers."
+  },
+  {
+    "kw": [
+      "uti",
+      "urinary tract infection",
+      "burning urination"
+    ],
+    "text": "See a clinician for diagnosis and antibiotics when bacterial UTI is confirmed. Cranberry products are not a substitute for treatment."
+  },
+  {
+    "kw": [
+      "kidney stones",
+      "renal colic",
+      "flank pain"
+    ],
+    "text": "Severe colicky pain, blood in urine, or inability to urinate needs urgent care. Prevention includes hydration and sometimes diet changes per specialist advice."
+  },
+  {
+    "kw": [
+      "gout",
+      "uric acid",
+      "joint toe pain"
+    ],
+    "text": "Acute attacks need medical management; long-term control includes diet discussion and medications — follow rheumatology or primary care guidance."
+  },
+  {
+    "kw": [
+      "gerd",
+      "acid reflux",
+      "heartburn"
+    ],
+    "text": "Smaller meals, weight management, and avoiding late eating help. Persistent symptoms or swallowing issues need evaluation."
+  },
+  {
+    "kw": [
+      "ibs",
+      "irritable bowel",
+      "bloating"
+    ],
+    "text": "Track triggers; fiber and stress management help some people. Red flags like blood in stool or weight loss need medical evaluation."
+  },
+  {
+    "kw": [
+      "celiac disease",
+      "gluten",
+      "gluten sensitivity"
+    ],
+    "text": "Celiac is an autoimmune condition diagnosed with testing — lifelong gluten-free diet is essential; do not self-diagnose by diet alone."
+  },
+  {
+    "kw": [
+      "lactose intolerance",
+      "dairy upset"
+    ],
+    "text": "Many tolerate small amounts or lactose-free products. Persistent GI symptoms should be evaluated for other causes."
+  },
+  {
+    "kw": [
+      "hepatitis b vaccine",
+      "hepatitis a vaccine"
+    ],
+    "text": "Travel and risk-based recommendations vary — ask your clinician about schedules and boosters."
+  },
+  {
+    "kw": [
+      "hpv vaccine",
+      "gardasil"
+    ],
+    "text": "HPV vaccination reduces certain cancers; schedules differ by age — discuss with a clinician."
+  },
+  {
+    "kw": [
+      "shingles vaccine",
+      "herpes zoster shot"
+    ],
+    "text": "Recommended for most adults 50+; ask about contraindications and timing after prior chickenpox or shingles."
+  },
+  {
+    "kw": [
+      "rsv",
+      "respiratory syncytial"
+    ],
+    "text": "RSV can be serious in infants and older adults; preventive options depend on age and season — follow public health and clinician guidance."
+  },
+  {
+    "kw": [
+      "meningococcal vaccine",
+      "meningitis vaccine"
+    ],
+    "text": "Recommended for certain ages and college/military/travel situations — verify with your provider."
+  },
+  {
+    "kw": [
+      "travel health",
+      "travel vaccines",
+      "international trip"
+    ],
+    "text": "See a travel clinic 4–6 weeks before trips for vaccines and malaria prophylaxis if needed."
+  },
+  {
+    "kw": [
+      "jet lag",
+      "time zone",
+      "circadian"
+    ],
+    "text": "Shift sleep gradually before travel; seek morning light at destination; limit alcohol; melatonin may help some — ask your clinician."
+  },
+  {
+    "kw": [
+      "motion sickness",
+      "car sick",
+      "seasick"
+    ],
+    "text": "Face forward, fresh air, and OTC options can help; persistent vomiting risks dehydration — seek care if severe."
+  },
+  {
+    "kw": [
+      "altitude sickness",
+      "mountain sickness"
+    ],
+    "text": "Ascend gradually, hydrate, and descend if severe headache or confusion — altitude illness can be dangerous."
+  },
+  {
+    "kw": [
+      "drowsy driving",
+      "sleepy driving"
+    ],
+    "text": "Pull over to rest; caffeine is not a substitute for sleep. Chronic daytime sleepiness needs evaluation (e.g., sleep apnea)."
+  },
+  {
+    "kw": [
+      "sleep apnea",
+      "snoring",
+      "cpap"
+    ],
+    "text": "Loud snoring with daytime sleepiness warrants evaluation. Treatment improves heart and metabolic risks when used consistently."
+  },
+  {
+    "kw": [
+      "restless legs",
+      "rls",
+      "leg discomfort night"
+    ],
+    "text": "Discuss iron stores and medications with a clinician; lifestyle tweaks sometimes help symptoms."
+  },
+  {
+    "kw": [
+      "thyroid",
+      "hypothyroid",
+      "hyperthyroid"
+    ],
+    "text": "Thyroid disorders affect energy, weight, and heart rate — diagnosis requires blood tests; do not adjust hormones without medical guidance."
+  },
+  {
+    "kw": [
+      "anemia",
+      "iron deficiency",
+      "low hemoglobin"
+    ],
+    "text": "Fatigue and pallor are clues; causes range from diet to bleeding — evaluation finds the source before self-supplementing iron."
+  },
+  {
+    "kw": [
+      "vitamin d",
+      "vitamin d deficiency"
+    ],
+    "text": "Sun exposure and diet contribute; supplementation should follow lab and clinician advice, especially in osteoporosis risk."
+  },
+  {
+    "kw": [
+      "vitamin b12",
+      "b12 deficiency",
+      "pernicious"
+    ],
+    "text": "Deficiency can mimic neurologic and blood problems — diagnosis and replacement dosing need medical oversight."
+  },
+  {
+    "kw": [
+      "skin cancer",
+      "melanoma screening",
+      "mole check"
+    ],
+    "text": "Use ABCDE changes as a prompt to see a dermatologist; sunscreen reduces risk but does not eliminate it."
+  },
+  {
+    "kw": [
+      "colon cancer screening",
+      "colonoscopy",
+      "fit test"
+    ],
+    "text": "Start age and interval depend on risk and guidelines — discuss screening modality with your clinician."
+  },
+  {
+    "kw": [
+      "lung cancer screening",
+      "low dose ct",
+      "smoker screening"
+    ],
+    "text": "Annual LDCT is for defined high-risk smokers/ex-smokers — ask if you qualify."
+  },
+  {
+    "kw": [
+      "copd",
+      "emphysema",
+      "chronic bronchitis"
+    ],
+    "text": "Smoking cessation is the most effective treatment; inhalers and pulmonary rehab improve quality of life — follow a lung specialist plan."
+  },
+  {
+    "kw": [
+      "heart healthy diet",
+      "mediterranean diet",
+      "dash diet"
+    ],
+    "text": "Emphasize vegetables, whole grains, lean proteins, and healthy fats; limit ultra-processed foods and excess sodium."
+  },
+  {
+    "kw": [
+      "sodium",
+      "salt intake",
+      "low sodium diet"
+    ],
+    "text": "Hidden sodium is common in packaged foods; label reading helps control blood pressure alongside other lifestyle measures."
+  },
+  {
+    "kw": [
+      "cholesterol",
+      "ldl",
+      "hdl",
+      "lipids"
+    ],
+    "text": "Cardiovascular risk combines numbers with blood pressure, diabetes, and smoking — treatment is personalized; do not stop statins without medical advice."
+  },
+  {
+    "kw": [
+      "atrial fibrillation",
+      "afib",
+      "irregular heartbeat"
+    ],
+    "text": "Can increase stroke risk; anticoagulation decisions use scoring tools — managed by cardiology or primary care."
+  },
+  {
+    "kw": [
+      "heart failure",
+      "fluid retention",
+      "chf"
+    ],
+    "text": "Daily weights and fluid/sodium limits may be advised; worsening shortness of breath or leg swelling needs prompt contact with your care team."
+  },
+  {
+    "kw": [
+      "leg swelling",
+      "edema",
+      "puffy legs"
+    ],
+    "text": "New asymmetric swelling could be a clot — urgent evaluation. Bilateral swelling has many causes including heart, liver, kidney, and medications."
+  },
+  {
+    "kw": [
+      "blood clot",
+      "dvt",
+      "deep vein"
+    ],
+    "text": "Leg pain/swelling after travel, surgery, or immobility needs urgent assessment; prevention includes movement and prescribed anticoagulation when indicated."
+  },
+  {
+    "kw": [
+      "pulmonary embolism",
+      "pe",
+      "sudden chest pain breath"
+    ],
+    "text": "Sudden pleuritic chest pain and breathlessness are emergencies — call emergency services."
+  },
+  {
+    "kw": [
+      "sepsis",
+      "infection emergency",
+      "septic"
+    ],
+    "text": "Fever with confusion, fast breathing, or low blood pressure after infection is an emergency — seek immediate care."
+  },
+  {
+    "kw": [
+      "mrsa",
+      "antibiotic resistant staph"
+    ],
+    "text": "Good wound care and completing antibiotics when prescribed help resistance; recurrent infections need medical guidance."
+  },
+  {
+    "kw": [
+      "c diff",
+      "c. difficile",
+      "antibiotic diarrhea"
+    ],
+    "text": "Can follow antibiotics; hygiene matters. Severe diarrhea with fever needs prompt medical care."
+  },
+  {
+    "kw": [
+      "antibiotic resistance",
+      "finish antibiotics"
+    ],
+    "text": "Take antibiotics exactly as prescribed; never share leftovers. Many illnesses are viral and do not need antibiotics."
+  },
+  {
+    "kw": [
+      "hand washing",
+      "hand hygiene",
+      "infection control"
+    ],
+    "text": "Wash 20+ seconds with soap; critical before eating and after bathroom — reduces respiratory and GI spread."
+  },
+  {
+    "kw": [
+      "workplace ergonomics",
+      "desk posture",
+      "rsi"
+    ],
+    "text": "Monitor at eye level, neutral wrists, and frequent breaks reduce strain; persistent numbness needs evaluation."
+  },
+  {
+    "kw": [
+      "back pain",
+      "lower back ache",
+      "lumbago"
+    ],
+    "text": "Most acute low back pain improves in weeks with activity as tolerated; red flags include leg weakness, numbness, or bladder issues — urgent care."
+  },
+  {
+    "kw": [
+      "sciatica",
+      "radiating leg pain",
+      "pinched nerve"
+    ],
+    "text": "Symptoms often improve with time and guided exercises; severe weakness or bowel/bladder changes are emergencies."
+  },
+  {
+    "kw": [
+      "osteoarthritis",
+      "joint wear",
+      "oa"
+    ],
+    "text": "Weight management, physical therapy, and low-impact exercise help; injections or surgery are individualized."
+  },
+  {
+    "kw": [
+      "rheumatoid arthritis",
+      "ra",
+      "autoimmune arthritis"
+    ],
+    "text": "Early treatment reduces joint damage — diagnosis and DMARDs require rheumatology."
+  },
+  {
+    "kw": [
+      "fibromyalgia",
+      "widespread pain",
+      "tender points"
+    ],
+    "text": "Multimodal care (sleep, exercise, CBT, medications) helps; diagnosis excludes other conditions."
+  },
+  {
+    "kw": [
+      "chronic fatigue",
+      "me cfs",
+      "post viral fatigue"
+    ],
+    "text": "Pacing, sleep care, and specialist support matter; diagnosis requires careful evaluation for other causes."
+  },
+  {
+    "kw": [
+      "ptsd",
+      "trauma",
+      "flashbacks"
+    ],
+    "text": "Trauma-focused therapies (e.g., PE, EMDR) are effective; crisis lines exist if safety is a concern — seek licensed care."
+  },
+  {
+    "kw": [
+      "eating disorder",
+      "anorexia",
+      "bulimia"
+    ],
+    "text": "Medical monitoring is essential for electrolytes and heart risks — multidisciplinary treatment saves lives."
+  },
+  {
+    "kw": [
+      "adhd",
+      "attention deficit",
+      "focus problems"
+    ],
+    "text": "Diagnosis is clinical; treatments include behavioral strategies and medications when appropriate — managed by qualified clinicians."
+  },
+  {
+    "kw": [
+      "autism",
+      "asd",
+      "neurodiversity"
+    ],
+    "text": "Support needs vary; early interventions focus on communication and skills — seek credible developmental evaluations."
+  },
+  {
+    "kw": [
+      "dementia",
+      "alzheimer",
+      "memory loss caregiver"
+    ],
+    "text": "Safety planning, driving discussions, and caregiver support matter; sudden confusion needs urgent evaluation for reversible causes."
+  },
+  {
+    "kw": [
+      "falls prevention",
+      "elderly falls",
+      "balance"
+    ],
+    "text": "Strength/balance training, vision checks, and home hazard reduction reduce fractures — discuss bone health after falls."
+  },
+  {
+    "kw": [
+      "vision loss",
+      "blurry vision",
+      "sudden vision"
+    ],
+    "text": "Sudden painless vision loss or curtain-like symptoms are emergencies — call immediately."
+  },
+  {
+    "kw": [
+      "hearing loss",
+      "deafness",
+      "tinnitus"
+    ],
+    "text": "Gradual loss warrants audiology; sudden hearing loss is urgent — seek same-day care."
+  },
+  {
+    "kw": [
+      "dental hygiene",
+      "cavities",
+      "tooth decay"
+    ],
+    "text": "Brush twice daily with fluoride, floss, regular dental visits; untreated decay can spread infection."
+  },
+  {
+    "kw": [
+      "gum disease",
+      "gingivitis",
+      "periodontal"
+    ],
+    "text": "Bleeding gums warrant dental care; links to heart and diabetes risk make oral health part of whole-person care."
+  },
+  {
+    "kw": [
+      "oral cancer",
+      "mouth sore",
+      "lip lesion"
+    ],
+    "text": "Non-healing sores, white/red patches, or neck lumps need dental or ENT evaluation — especially with tobacco/alcohol use."
+  },
+  {
+    "kw": [
+      "std testing",
+      "sti screening",
+      "safe sex"
+    ],
+    "text": "Many infections are asymptomatic; regular testing based on risk and barrier methods reduce spread — confidential care is available."
+  },
+  {
+    "kw": [
+      "hiv prevention",
+      "prep",
+      "pep"
+    ],
+    "text": "PrEP and PEP are effective when used correctly — require clinician prescribing and monitoring."
+  },
+  {
+    "kw": [
+      "hepatitis c",
+      "hcv cure"
+    ],
+    "text": "Curable oral regimens exist — screening is recommended for certain birth cohorts and risk factors."
+  },
+  {
+    "kw": [
+      "tuberculosis",
+      "tb test",
+      "latent tb"
+    ],
+    "text": "Testing is risk-based; treatment of latent TB prevents future illness — follow public health protocols."
+  },
+  {
+    "kw": [
+      "malaria prevention",
+      "mosquito travel"
+    ],
+    "text": "Antimalarial choice depends on destination and resistance patterns — travel clinic essential."
+  },
+  {
+    "kw": [
+      "dengue",
+      "zika",
+      "mosquito borne"
+    ],
+    "text": "Prevention is bite avoidance; pregnant travelers should review destination advisories with clinicians."
+  },
+  {
+    "kw": [
+      "lyme disease",
+      "bullseye rash"
+    ],
+    "text": "Early antibiotics for confirmed or high-likelihood cases; not every tick transmits — follow evidence-based protocols."
+  },
+  {
+    "kw": [
+      "wildfire smoke",
+      "air quality",
+      "pm2.5"
+    ],
+    "text": "Limit outdoor exertion when AQI is poor; N95 helps some; sensitive groups should be extra cautious."
+  },
+  {
+    "kw": [
+      "carbon monoxide",
+      "co detector",
+      "furnace leak"
+    ],
+    "text": "Install detectors; symptoms like headache and nausea in winter with heaters warrant fresh air and emergency services if suspected."
+  },
+  {
+    "kw": [
+      "drowning prevention",
+      "water safety",
+      "swimming"
+    ],
+    "text": "Constant supervision of children, barriers around pools, and life jackets near open water save lives."
+  },
+  {
+    "kw": [
+      "bike helmet",
+      "cycling safety",
+      "head protection"
+    ],
+    "text": "Helmets reduce brain injury risk; replace after a significant impact."
+  },
+  {
+    "kw": [
+      "domestic violence",
+      "intimate partner violence",
+      "safe exit"
+    ],
+    "text": "Safety planning matters; hotlines can help with local resources — if in immediate danger, call emergency services."
+  },
+  {
+    "kw": [
+      "988",
+      "suicide hotline",
+      "crisis line"
+    ],
+    "text": "In the US, call or text 988 for mental health crisis support; if someone is in immediate danger, call emergency services."
+  },
+  {
+    "kw": [
+      "naloxone",
+      "opioid overdose",
+      "narcan"
+    ],
+    "text": "Community naloxone programs save lives; after reversal, emergency evaluation is still needed."
+  },
+  {
+    "kw": [
+      "smoking cessation",
+      "quit smoking",
+      "nicotine"
+    ],
+    "text": "Combining counseling with medications improves quit rates — ask clinicians about FDA-approved options."
+  },
+  {
+    "kw": [
+      "vaping",
+      "e-cigarette",
+      "juul"
+    ],
+    "text": "Not harmless; youth should not vape. Adults switching from cigarettes should discuss risks with clinicians."
+  },
+  {
+    "kw": [
+      "alcohol moderation",
+      "drinking limits",
+      "binge drinking"
+    ],
+    "text": "Guidelines vary by country; avoid alcohol in pregnancy; seek help if drinking interferes with life — treatment works."
+  },
+  {
+    "kw": [
+      "caffeine",
+      "coffee health",
+      "energy drinks"
+    ],
+    "text": "Moderate caffeine is generally safe for most adults; excess can worsen anxiety, sleep, and palpitations."
+  },
+  {
+    "kw": [
+      "intermittent fasting",
+      "time restricted eating"
+    ],
+    "text": "Not appropriate for everyone (e.g., diabetes on insulin, eating disorders); discuss with a clinician before major changes."
+  },
+  {
+    "kw": [
+      "keto diet",
+      "ketogenic",
+      "low carb diet"
+    ],
+    "text": "Can affect lipids and medications; medical supervision is important for therapeutic ketosis in epilepsy — general weight loss should be clinician-guided."
+  },
+  {
+    "kw": [
+      "plant based diet",
+      "vegetarian",
+      "vegan"
+    ],
+    "text": "Plan protein, B12, iron, and calcium sources; balanced plant-based patterns can support heart health."
+  },
+  {
+    "kw": [
+      "hydration exercise",
+      "sweating workout"
+    ],
+    "text": "Prehydrate; replace fluids for long endurance events; watch for hyponatremia from over-drinking plain water in extreme endurance — follow sports medicine advice."
+  },
+  {
+    "kw": [
+      "runner knee",
+      "it band",
+      "patellofemoral"
+    ],
+    "text": "Gradual training increases, strength work, and proper footwear help; persistent pain needs evaluation."
+  },
+  {
+    "kw": [
+      "shin splints",
+      "tibial stress"
+    ],
+    "text": "Reduce training load, check footwear; stress fractures must be ruled out if focal bone pain persists."
+  },
+  {
+    "kw": [
+      "plantar fasciitis",
+      "heel pain morning"
+    ],
+    "text": "Stretching, supportive shoes, and night splints help many; prolonged symptoms need podiatry."
+  },
+  {
+    "kw": [
+      "kidney health",
+      "ckd",
+      "chronic kidney"
+    ],
+    "text": "Control blood pressure and diabetes; avoid nephrotoxic NSAID overuse; follow nephrology labs."
+  },
+  {
+    "kw": [
+      "liver health",
+      "fatty liver",
+      "nafld"
+    ],
+    "text": "Weight loss and limiting alcohol improve many cases; monitoring follows risk factors."
+  },
+  {
+    "kw": [
+      "gallstones",
+      "gallbladder pain",
+      "biliary colic"
+    ],
+    "text": "Typical pain after fatty meals; complications like fever or jaundice need urgent care."
+  },
+  {
+    "kw": [
+      "pancreatitis",
+      "severe stomach pain alcohol"
+    ],
+    "text": "Severe epigastric pain radiating to back with vomiting is an emergency — alcohol and gallstones are common causes."
+  },
+  {
+    "kw": [
+      "appendicitis",
+      "right lower pain",
+      "rlq pain"
+    ],
+    "text": "Worsening RLQ pain, fever, or loss of appetite needs urgent evaluation — do not delay."
+  },
+  {
+    "kw": [
+      "kidney infection",
+      "pyelonephritis",
+      "fever uti"
+    ],
+    "text": "Flank pain and fever with UTI symptoms need prompt treatment — can become serious."
+  },
+  {
+    "kw": [
+      "endometriosis",
+      "pelvic pain periods"
+    ],
+    "text": "Chronic pelvic pain warrants gynecologic evaluation; treatments range from hormones to surgery."
+  },
+  {
+    "kw": [
+      "pcos",
+      "polycystic ovary",
+      "irregular periods"
+    ],
+    "text": "Metabolic and fertility aspects vary — individualized care with primary or specialty clinicians."
+  },
+  {
+    "kw": [
+      "preeclampsia",
+      "pregnancy high blood pressure"
+    ],
+    "text": "Headache, vision changes, upper abdominal pain, or sudden swelling in pregnancy need urgent obstetric evaluation."
+  },
+  {
+    "kw": [
+      "jaundice newborn",
+      "yellow baby"
+    ],
+    "text": "Follow pediatric thresholds for feeding and bilirubin; severe jaundice needs timely care to prevent complications."
+  },
+  {
+    "kw": [
+      "sids",
+      "safe sleep",
+      "crib safety"
+    ],
+    "text": "Back to sleep, firm flat surface, no soft bedding; avoid overheating — follow updated safe sleep guidelines."
+  },
+  {
+    "kw": [
+      "car seat",
+      "child passenger safety"
+    ],
+    "text": "Use stage-appropriate seats; rear-facing as long as limits allow; replace seats after moderate/severe crashes per manufacturer."
+  },
+  {
+    "kw": [
+      "lead exposure",
+      "lead paint",
+      "pica"
+    ],
+    "text": "Children in older housing should follow screening guidelines; developmental concerns need evaluation."
+  },
+  {
+    "kw": [
+      "radon",
+      "home radon test"
+    ],
+    "text": "Radon is a leading lung cancer cause in non-smokers in some regions — test your home and mitigate if high."
+  },
+  {
+    "kw": [
+      "carbon footprint health",
+      "air pollution health"
+    ],
+    "text": "Walking/cycling when safe improves fitness and local air quality — personal and population benefits."
+  },
+  {
+    "kw": [
+      "mental performance",
+      "stress management",
+      "mindfulness"
+    ],
+    "text": "Mindfulness and structured breaks can reduce burnout; persistent impairment may need therapy."
+  },
+  {
+    "kw": [
+      "loneliness",
+      "social isolation",
+      "elderly isolation"
+    ],
+    "text": "Social connection affects mental and physical health — community programs and tele-friends can help."
+  },
+  {
+    "kw": [
+      "gambling addiction",
+      "problem gambling"
+    ],
+    "text": "Financial and mental health harms are real; confidential helplines and therapy exist."
+  },
+  {
+    "kw": [
+      "internet addiction",
+      "screen time kids"
+    ],
+    "text": "Consistent family media plans and sleep protection matter; problematic use may need professional support."
+  },
+  {
+    "kw": [
+      "seasonal affective disorder",
+      "sad winter depression"
+    ],
+    "text": "Light therapy, CBT, and sometimes medications help — discuss diagnosis with a clinician."
+  },
+  {
+    "kw": [
+      "pet therapy",
+      "animals mental health"
+    ],
+    "text": "Pets can support routine and companionship but are not a substitute for medical or psychiatric care."
+  },
+  {
+    "kw": [
+      "vaccine hesitancy",
+      "vaccine questions"
+    ],
+    "text": "Bring specific questions to a clinician or pharmacist; credible sources include national immunization technical advisories."
+  },
+  {
+    "kw": [
+      "clinical trials",
+      "research participation"
+    ],
+    "text": "Trials advance medicine; eligibility and informed consent protect participants — discuss with study teams."
+  },
+  {
+    "kw": [
+      "health literacy",
+      "understanding doctor"
+    ],
+    "text": "Ask for teach-back, written instructions, and interpreters when needed — better understanding improves outcomes."
+  },
+  {
+    "kw": [
+      "second opinion",
+      "specialist referral"
+    ],
+    "text": "Reasonable for major diagnoses or surgery; bring records and specific questions."
+  },
+  {
+    "kw": [
+      "medical records",
+      "portable health record"
+    ],
+    "text": "Keeping an updated medication list and allergy list speeds urgent care and reduces errors."
+  },
+  {
+    "kw": [
+      "pharmacist role",
+      "medication review"
+    ],
+    "text": "Pharmacists can review interactions, inhaler technique, and vaccination schedules — accessible experts."
+  },
+  {
+    "kw": [
+      "telehealth",
+      "video visit"
+    ],
+    "text": "Useful for many follow-ups; emergencies and exams sometimes still need in-person care."
+  },
+  {
+    "kw": [
+      "urgent care vs er",
+      "where to go"
+    ],
+    "text": "ER for life threats; urgent care for non-emergency issues when PCP unavailable — when unsure, nurse lines can guide."
+  },
+  {
+    "kw": [
+      "free clinic",
+      "sliding scale",
+      "uninsured care"
+    ],
+    "text": "Federally qualified health centers and community clinics provide primary care on income-based fees in many regions."
+  },
+  {
+    "kw": [
+      "medical bill",
+      "insurance appeal"
+    ],
+    "text": "Ask for itemized bills; charity care and payment plans may exist — patient advocates can help navigate appeals."
+  },
+  {
+    "kw": [
+      "advance directive",
+      "living will",
+      "healthcare proxy"
+    ],
+    "text": "Documenting wishes reduces family stress; review periodically and share copies."
+  },
+  {
+    "kw": [
+      "organ donation",
+      "donor registration"
+    ],
+    "text": "Registration reflects your wishes; discuss with family so they can support decisions."
+  },
+  {
+    "kw": [
+      "blood donation",
+      "give blood"
+    ],
+    "text": "Eligibility criteria protect donor and recipient health — hydration and iron matter; deferrals are common and temporary."
+  },
+  {
+    "kw": [
+      "anaphylaxis training",
+      "epi training"
+    ],
+    "text": "Know how to use auto-injectors; carry two doses; still call emergency services after use."
+  },
+  {
+    "kw": [
+      "needle phobia",
+      "fear of shots"
+    ],
+    "text": "Applied tension technique and exposure strategies help; tell vaccinators — they are used to it."
+  },
+  {
+    "kw": [
+      "palliative care",
+      "symptom relief serious illness"
+    ],
+    "text": "Not only end-of-life — focuses on quality of life alongside treatment; ask for consults early when appropriate."
+  },
+  {
+    "kw": [
+      "hospice",
+      "end of life care"
+    ],
+    "text": "Comfort-focused care when goals shift — teams support patients and families emotionally and medically."
+  },
+  {
+    "kw": [
+      "grief",
+      "bereavement"
+    ],
+    "text": "Grief is non-linear; counseling and support groups help; seek help if functioning is severely impaired or suicidal thoughts appear."
+  }
+]
