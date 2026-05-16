@@ -30,6 +30,12 @@ export async function register(req: Request, res: Response): Promise<void> {
     return;
   }
 
+  const displayName = name?.trim();
+  if (!displayName) {
+    res.status(400).json({ error: "First name and last name are required." });
+    return;
+  }
+
   const existing = await User.findOne({ email: email.toLowerCase() });
   if (existing) {
     res.status(409).json({ error: "An account with that email already exists." });
@@ -37,7 +43,7 @@ export async function register(req: Request, res: Response): Promise<void> {
   }
 
   const hash = await bcrypt.hash(password, 12);
-  const user = await User.create({ name, email: email.toLowerCase(), password: hash });
+  const user = await User.create({ name: displayName, email: email.toLowerCase(), password: hash });
   const token = signToken(user._id.toString());
 
   res.status(201).json({ token, user: safeUser(user) });
@@ -85,10 +91,11 @@ export async function googleAuth(req: Request, res: Response): Promise<void> {
   try {
     const ticket = await client.verifyIdToken({ idToken: credential, audience: clientId });
     payload = ticket.getPayload();
-  } catch {
+  } catch (err) {
+    console.error("Google ID token verification failed:", err);
     res.status(401).json({
       error:
-        "Google sign-in could not be verified. Check that this server GOOGLE_CLIENT_ID matches the Web client used on the login page and that authorized JavaScript origins include your app URL (e.g. http://localhost:3000).",
+        "Google sign-in could not be verified. Ensure VPS GOOGLE_CLIENT_ID matches Vercel NEXT_PUBLIC_GOOGLE_CLIENT_ID (same Web client) and https://healthchatbot.zyloes.app is in Authorized JavaScript origins.",
     });
     return;
   }
@@ -99,9 +106,14 @@ export async function googleAuth(req: Request, res: Response): Promise<void> {
 
   const emailNorm = payload.email.toLowerCase();
   let user = await User.findOne({ email: emailNorm });
+  const googleName =
+    payload.name?.trim() ||
+    [payload.given_name, payload.family_name].filter(Boolean).join(" ").trim() ||
+    undefined;
+
   if (!user) {
     user = await User.create({
-      name: payload.name,
+      name: googleName,
       email: emailNorm,
       googleId: payload.sub,
       image: payload.picture,
